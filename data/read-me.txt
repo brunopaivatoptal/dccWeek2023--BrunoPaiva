@@ -1,0 +1,1 @@
+Coloque nesta pasta seus arquivos .h5 de treino, teste e avaliação.
